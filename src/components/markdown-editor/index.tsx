@@ -96,9 +96,9 @@ const MarkdownEditor = ({
 
   const customCommands = commands.getCommands().concat([
     commands.group([ImageUpload(contentDetails, false)], {
-      name: "OnlineSales components",
-      groupName: "onlinesales-components",
-      buttonProps: { "aria-label": "Insert onlinesales custom components" },
+      name: "SalesPro components",
+      groupName: "salespro-components",
+      buttonProps: { "aria-label": "Insert salespro custom components" },
       icon: <AppsIcon sx={{ fontSize: 15 }} />,
     }),
   ]);

@@ -1,6 +1,6 @@
-# onlinesales.admin
+# salespro.admin
 
-React based Admin UI for OnlineSales (lightweight, extendable headless CMS for product websites)
+React based Admin UI for SalesPro (lightweight, extendable headless CMS for product websites)
 
 ## Project status
 
