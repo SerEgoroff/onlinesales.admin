@@ -15,7 +15,7 @@ export const AppHeader = () => {
           variant="h6"
           style={{ textTransform: "uppercase", marginLeft: "54px" }}
         >
-          Online Sales
+          Sales Pro
         </Typography>
         <DropdownMenu />
       </AppBarToolbar>
